@@ -8,7 +8,7 @@ Förverkliga shoutbox-/kommenterings applikation där kommentarerna sparas i dat
 Databas
 Gör en tabell shoutbox med följande fält i phpmyadmin.
 
-`````
+````
 shoutbox
 id INT(4) NOT NULL AUTO_INCREMENT PRIMARY KEY
 username VARCHAR(20)
