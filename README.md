@@ -1,6 +1,8 @@
 # DAIOFHP-PHP-MySQL-Ovn-Shoutbox
 Definition av informationen och funktionerna hos programvaran. PHP-MySQL-övning: shoutbox
 
+# Instruktioner:
+
 PHP-MySQL övning 1 - Shoutbox
 Förverkliga shoutbox-/kommenterings applikation där kommentarerna sparas i databasen och skrivs ut på sidan. Gör en mapp med namnet shoutbox där du sparar index.php, db_connect.php och möjliga andra filer. Då du är klar spara också SQL-dump på tabellen i mappen, zippa och lämna in.
 Databas
@@ -17,7 +19,7 @@ time TIMESTAMP
 tid för inlägg
 active TINYINT(1)
 “boolean”, 0 eller 1
-
+````
 
 HTML
 Förverkliga formulär som skickar användarnamn och kommentaren.
